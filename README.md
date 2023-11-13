@@ -20,4 +20,5 @@
 - [技術](https://github.com/mimorimomi/iam/discussions?discussions_q=label%3ATech+)
 - [趣味](https://github.com/mimorimomi/iam/discussions?discussions_q=label%3AHobby)
 - [生活](https://github.com/mimorimomi/iam/discussions?discussions_q=label%3ALife+)
+- [カンファレンス・セミナー等](https://github.com/mimorimomi/iam/discussions?discussions_q=label:Conference+)
 - [その他](https://github.com/mimorimomi/iam/discussions?discussions_q=label%3AOther+)
