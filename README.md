@@ -4,10 +4,10 @@
 
 ## このリポジトリについて
 
-思考のログとして残しておきたい、みたいなものを [Discussions](https://github.com/mimorimomi/iam/discussions) に溜め込む場所です。  
+適当なメモを [Discussions](https://github.com/mimorimomi/iam/discussions) に溜め込む場所です。  
 多少緊張感があった方がちゃんとした文章を書くだろうと思いパブリックにしました。
 
-これがわたしですと説明できる何かになればいいなと思っています。
+これがわたしですと説明できる何かになればいいなと思います。
 
 ### カテゴリ
 
